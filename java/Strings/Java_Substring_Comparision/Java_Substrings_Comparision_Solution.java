@@ -1,3 +1,11 @@
+/* 
+The package line is to be avoided while writing the program. 
+Cause VS code doesn't allow me to execute the program without this line, I've added this line too. 
+*/
+
+package DarkChocolate.java.Strings.Java_Substring_Comparision;
+
+
 import java.util.Scanner;
 
 class Solution {
